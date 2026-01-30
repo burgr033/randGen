@@ -1,3 +1,4 @@
+// Package randomanimals generates random combinations from a list of animals and adjectives
 package randomanimals
 
 import (
