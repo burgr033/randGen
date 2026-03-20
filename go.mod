@@ -1,3 +1,4 @@
+// Deprecated: use codeberg.org/burgr/randGen instead.
 module github.com/burgr033/randGen
 
 go 1.23.1
